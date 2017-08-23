@@ -8,7 +8,7 @@ This is a  website calculator that uses simmple arithmetic to calculate basic fu
 ## Setup/Installation Requirements
 
 * Clone or Download the repository on your command line terminal to view or edit the content. GitBash.exe for windows and Terminal for Linux.
-* Click on the following website link to view the [site](https://shadrackndolo.github.io/pingpong/).
+* Click on the following website link to view the [site](https://shadrackndolo.github.io/Calculator/).
 
 
 ## Known Bugs
