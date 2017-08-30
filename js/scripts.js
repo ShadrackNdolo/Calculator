@@ -51,9 +51,16 @@ var add = function(number1, number2) {
           var number2 = parseInt($("#divide2").val());
           var result = divide(number1, number2);
           $("#output").text(result);
-        });
+        });g
       });
 
+      var beverage = $("#beverage").val();
+
+      var flavor = $("input:radio[name=flavor]:checked").val();
+
+      var dob = $("#born").val();
+
+      var favoriteColor = $("#color").val();
       // Business (or back-end) logic:
 
           /*  var add = function(number1, number2) {
